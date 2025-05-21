@@ -2,7 +2,7 @@
 
 The accompanying repository for the GitOps Master Class - Argo CD AppProjects 
 
-> YOUTUBE VIDEO WILL GO HERE
+[![Watch the Webinar Recording](images/argocd_project_champion.png)](https://www.youtube.com/watch?v=LSejrYaYcBI&ab_channel=Akuity)
 
 Argo CD Application Project (AppProject) is a logical grouping mechanism that defines boundaries and access controls for applications within Argo CD. It enables administrators to enforce policies on which Git repositories, Kubernetes namespaces, and Kubernetes Objects applications can manage. 
 
