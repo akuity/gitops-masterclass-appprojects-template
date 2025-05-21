@@ -14,6 +14,11 @@ In this Master Class we’ll be going over:
 * How to Configure Global Projects
 * Scoping Clusters and Repositories to specific Projects
 
+To follow along with the video, you can use the following documentation:
+
+* [Getting Started](docs/getting_started.md)
+* [Workshop](docs/workshop.md)
+
 ## Using This Repository
 
 This repository makes use of [Codespaces](https://github.com/features/codespaces), the free tier should be sufficent for this as long as you have enough credits.
