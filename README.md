@@ -19,6 +19,9 @@ To follow along with the video, you can use the following documentation:
 * [Getting Started](docs/getting_started.md)
 * [Workshop](docs/workshop.md)
 
+## Stuck? Need Help Getting Un-Stuck?
+If you have any difficulties during this workshop, [join the Akuity Discord](https://discord.com/invite/dHJBZw6ewT) and ask questions in the **#gitops-masterclass** channel.
+
 ## Using This Repository
 
 This repository makes use of [Codespaces](https://github.com/features/codespaces), the free tier should be sufficent for this as long as you have enough credits.
