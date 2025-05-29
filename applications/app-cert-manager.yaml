@@ -9,7 +9,7 @@ spec:
     namespace: cert-manager
   source:
     path: workloads/cert-manager/
-    repoURL: https://github.com/reikamoon/gitops-masterclass-appprojects-template
+    repoURL: https://github.com/<repo>
     targetRevision: main
   project: default
   syncPolicy:
